@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Expense-Meter/static/css/main.bed6cf41.css",
+    "main.js": "/Expense-Meter/static/js/main.6fc08dda.js",
+    "index.html": "/Expense-Meter/index.html",
+    "main.bed6cf41.css.map": "/Expense-Meter/static/css/main.bed6cf41.css.map",
+    "main.6fc08dda.js.map": "/Expense-Meter/static/js/main.6fc08dda.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bed6cf41.css",
+    "static/js/main.6fc08dda.js"
+  ]
+}
