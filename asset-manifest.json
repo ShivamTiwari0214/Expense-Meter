@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Expense-Meter/static/css/main.bed6cf41.css",
-    "main.js": "/Expense-Meter/static/js/main.44614178.js",
+    "main.js": "/Expense-Meter/static/js/main.9630f5f0.js",
     "index.html": "/Expense-Meter/index.html",
     "main.bed6cf41.css.map": "/Expense-Meter/static/css/main.bed6cf41.css.map",
-    "main.44614178.js.map": "/Expense-Meter/static/js/main.44614178.js.map"
+    "main.9630f5f0.js.map": "/Expense-Meter/static/js/main.9630f5f0.js.map"
   },
   "entrypoints": [
     "static/css/main.bed6cf41.css",
-    "static/js/main.44614178.js"
+    "static/js/main.9630f5f0.js"
   ]
 }
